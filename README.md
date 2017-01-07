@@ -11,9 +11,9 @@ You can download the **[SWRevealViewController](https://github.com/John-Lluch/SW
 Made with Swift 3 and xcode 8.2
 
 #Results screensavers
-![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/Simulator%20Screen%20Shot%207%20Jan%202017%2C%2018.51.10.png)
-![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/Simulator%20Screen%20Shot%207%20Jan%202017%2C%2018.51.57.png)
-![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/Simulator%20Screen%20Shot%207%20Jan%202017%2C%2018.52.19.png)
+![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/01.png)
+![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/02.png)
+![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/03.png)
 
 
 
