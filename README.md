@@ -15,7 +15,6 @@ Made with Swift 3 and xcode 8.2
 #Results screenshots
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/01.png)
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/02.png)
-![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/03.png)
 
 #Example screenshot with other Background image
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/04.png) **OR**
