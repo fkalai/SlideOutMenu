@@ -6,7 +6,7 @@
 * Swift 3.0
 * Autolayout
 
-SWRevealViewController **[iOS App Development Basics](https://github.com/John-Lluch/SWRevealViewController)**, part of the [iOS App Development Specialization on Coursera](https://www.coursera.org/specializations/app-development)
+You can download the **[SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController)** here!
 
 Made with Swift 3 and xcode 8.1
 
