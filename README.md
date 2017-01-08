@@ -23,10 +23,13 @@ Made with Swift 3 and xcode 8.2
 # UITableViewCell Selection with different Color and Alpha
 
 You can put in the func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell
+
 The code below:
         
         let customeUIView = UIView()
         customeUIView.backgroundColor = UIColor(red: 151/255, green: 151/255, blue: 151/255, alpha: 0.7)
         cell.selectedBackgroundView = customeUIView
 
+#ScreenShot
+![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/06.png)
 > Copyright (c) 2016 Fotis Kalaitzidis
