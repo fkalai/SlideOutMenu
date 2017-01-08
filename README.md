@@ -31,6 +31,6 @@ The code below:
         cell.selectedBackgroundView = customeUIView
 
 #ScreenShot
-![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/06.png)
+![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/06.png) **OR**
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/07.png)
 > Copyright (c) 2016 Fotis Kalaitzidis
