@@ -24,9 +24,8 @@ Made with Swift 3 and xcode 8.2
 
 You can put in the func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell
 The code below:
-
-let customeUIView = UIView()
         
+        let customeUIView = UIView()
         customeUIView.backgroundColor = UIColor(red: 151/255, green: 151/255, blue: 151/255, alpha: 0.7)
         cell.selectedBackgroundView = customeUIView
 
