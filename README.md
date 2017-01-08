@@ -20,9 +20,18 @@ Made with Swift 3 and xcode 8.2
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/04.png) **OR**
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/05.png)
 
-# UITableViewCell Selection with different Color and Alpha
+# Custom UITableViewCell Selection Style Color and Alpha
 
-You can put in the func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell
+The storyboard only gives four options for the Selection color of a UITableViewCell:
+
+* None
+* Blue
+* Gray
+* Default
+
+So, to change the selection color, simply assign a different selection view to the selected background view of your cell in your code!
+
+You can write in the func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell{}
 
 The code below:
         
