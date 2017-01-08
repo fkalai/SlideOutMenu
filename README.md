@@ -43,7 +43,7 @@ The code below:
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/06.png) **OR**
 ![MacDown Screenshot](https://github.com/fkalai/SlideOutMenu/blob/master/07.png)
 
-**Lisence**
+**Lisence of the SWRevealViewController**
 
 > Copyright (c) 2013 Joan Lluch joan.lluch@sweetwilliamsl.com
 
